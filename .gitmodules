@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/nguyenductung2709-dt/Messenger-Server.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nguyenductung2709-dt/Messenger-Frontend.git
